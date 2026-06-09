@@ -88,7 +88,7 @@ os-de-TI
 
 ## 👨‍💻 Autores
 
-- Otávio Felix Da Silva — RA: 26011432
-- Igor Mastrangelo Domingos — RA: 26001460
-- Jonathan Ribeiro — RA: 26011853
-- Maximus Daniel Nascimento — RA: 26010317
+- Otávio Felix Da Silva
+- Igor Mastrangelo Domingos
+- Jonathan Ribeiro
+- Maximus Daniel Nascimento
